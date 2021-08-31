@@ -1,0 +1,13 @@
+Version: 1.0
+AgroManagement:
+- 2006-03-01:
+    CropCalendar:
+        crop_name: 'maize'
+        variety_name: 'H614'
+        crop_start_date: 2006-03-01
+        crop_start_type: sowing
+        crop_end_date: 2006-07-23
+        crop_end_type: maturity
+        max_duration: 145
+    TimedEvents: null
+    StateEvents: null
